@@ -1,0 +1,14 @@
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\bin\Debug\net10.0\Ejer01_INTERCAMBIO_AUXILIAR.exe
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\bin\Debug\net10.0\Ejer01_INTERCAMBIO_AUXILIAR.deps.json
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\bin\Debug\net10.0\Ejer01_INTERCAMBIO_AUXILIAR.runtimeconfig.json
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\bin\Debug\net10.0\Ejer01_INTERCAMBIO_AUXILIAR.dll
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\bin\Debug\net10.0\Ejer01_INTERCAMBIO_AUXILIAR.pdb
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\obj\Debug\net10.0\Ejer01_INTERCAMBIO_AUXILIAR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\obj\Debug\net10.0\Ejer01_INTERCAMBIO_AUXILIAR.AssemblyInfoInputs.cache
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\obj\Debug\net10.0\Ejer01_INTERCAMBIO_AUXILIAR.AssemblyInfo.cs
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\obj\Debug\net10.0\Ejer01_INTERCAMBIO_AUXILIAR.csproj.CoreCompileInputs.cache
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\obj\Debug\net10.0\Ejer01_INTERCAMBIO_AUXILIAR.dll
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\obj\Debug\net10.0\refint\Ejer01_INTERCAMBIO_AUXILIAR.dll
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\obj\Debug\net10.0\Ejer01_INTERCAMBIO_AUXILIAR.pdb
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\obj\Debug\net10.0\Ejer01_INTERCAMBIO_AUXILIAR.genruntimeconfig.cache
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer01_INTERCAMBIO_AUXILIAR\obj\Debug\net10.0\ref\Ejer01_INTERCAMBIO_AUXILIAR.dll
