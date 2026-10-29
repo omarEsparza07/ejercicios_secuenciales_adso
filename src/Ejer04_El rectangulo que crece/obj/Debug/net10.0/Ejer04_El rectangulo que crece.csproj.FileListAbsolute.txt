@@ -1,0 +1,15 @@
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\bin\Debug\net10.0\Ejer04_El rectangulo que crece.exe
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\bin\Debug\net10.0\Ejer04_El rectangulo que crece.deps.json
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\bin\Debug\net10.0\Ejer04_El rectangulo que crece.runtimeconfig.json
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\bin\Debug\net10.0\Ejer04_El rectangulo que crece.dll
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\bin\Debug\net10.0\Ejer04_El rectangulo que crece.pdb
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\obj\Debug\net10.0\Ejer04_El rectangulo que crece.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\obj\Debug\net10.0\Ejer04_El rectangulo que crece.AssemblyInfoInputs.cache
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\obj\Debug\net10.0\Ejer04_El rectangulo que crece.AssemblyInfo.cs
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\obj\Debug\net10.0\Ejer04_El rectangulo que crece.csproj.CoreCompileInputs.cache
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\obj\Debug\net10.0\Ejer04_El rectangulo que crece.sourcelink.json
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\obj\Debug\net10.0\Ejer04_El rectangulo que crece.dll
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\obj\Debug\net10.0\refint\Ejer04_El rectangulo que crece.dll
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\obj\Debug\net10.0\Ejer04_El rectangulo que crece.pdb
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\obj\Debug\net10.0\Ejer04_El rectangulo que crece.genruntimeconfig.cache
+D:\Ejemplossicharoea\COmpetencia algoritmos\Ejercicios_secuenciales\src\Ejer04_El rectangulo que crece\obj\Debug\net10.0\ref\Ejer04_El rectangulo que crece.dll
